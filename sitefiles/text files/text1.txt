@@ -1,0 +1,36 @@
+We Are Specialists In
+What We Do
+
+i) 2D/3D Games
+=> We develop the modern world games specially using unity3d engine.
+ii) Application Develop
+=> We develop applications for various platforms, mobile, desktop and web.
+ii) AR/VR Application
+=> AR/VR is the modern world technology. We understand that demand and we are develop AR/VR application.
+iv) Programming
+=> We provide professional programs / coding for various technologies and software.
+v) Technical Support
+=> We provide any kind of technical support as per your requirement.
+vi) Security
+=> The main priority for us is the security of our product.
+
+    <div class="cover-pic" style="width: auto; height: auto;">
+        <img class="img-responsive" src="../images/gm1.png" alt="GameMaker Sompod">
+        <!-- this line for website cover picture-->
+    </div>
+
+
+    background: transparent url("../images/gm1.png") no-repeat top center fixed;
+
+
+<div class="gm-cover"></div>
+
+
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-lg-12 col-md-12 col-sm-12 gm-cover">
+                <h1>This is header.</h1>
+                <p>Here our other document.</p>
+            </div>
+        </div>
+    </div>

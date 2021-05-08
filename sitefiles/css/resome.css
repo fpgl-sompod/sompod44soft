@@ -1,0 +1,50 @@
+.headerLine {
+    text-align: center;
+    font-size: 40px;
+    font-weight: 900;
+    font-family: cursive;
+    background-color: cornsilk;
+}
+
+#contactinfo {
+    color: red;
+
+}
+
+#ri {
+    text-align: center;
+    font-size: 40px;
+    font-weight: 900;
+    margin-bottom: 15px;
+    background-color: white;
+}
+
+#ci {
+    float: left;
+    margin-top: 15px;
+}
+
+#edu {}
+
+#education {
+    text-align: center;
+    font-size: 40px;
+    font-weight: 900;
+    font-family: cursive;
+    background-color: cornsilk;
+    color: red;
+}
+
+.highlighttext {
+    font-size: 20px;
+    font-weight: 800;
+    font-family: inherit;
+
+}
+
+.headingtext {
+    font-size: 18px;
+    font-family: sans-serif;
+    font-weight: 800;
+    color: blue;
+}
